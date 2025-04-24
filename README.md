@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any flutter app
 - 📫 How to reach me suaib.saifi341900@gmail.com
 - 😄 Pronouns: sway-ib
-- ⚡ Fun fact: I always thing about programming
+- ⚡ Fun fact: I always thing about logic
 
 <!---
 suaib-dev/suaib-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
